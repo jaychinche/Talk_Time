@@ -71,13 +71,4 @@ $ npm install (to install server-side dependencies)
 ```
 
 
-## Contributing
-
-Contributions to this project are welcome! If you find a bug or want to add a feature, please submit an issue or a pull request. To contribute, follow these steps:
-
-1. Fork the repository
-2. Create a new branch for your feature: `git checkout -b my-new-feature`
-3. Make changes and commit them: `git commit -m 'Add some feature'`
-4. Push your branch to your forked repository: `git push origin my-new-feature`
-5. Create a Pull Request
-
+# Talk_Time
