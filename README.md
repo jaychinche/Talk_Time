@@ -6,7 +6,7 @@ This is a real-time chat website that allows users to connect with each other an
 - Youtube Demo : <a target="__blanck" href="https://www.youtube.com/watch?v=CZF_6sOBB68">Click On Me</a>
 
 ## Technologies Used
-s
+
 - MERN stack (MongoDB, Express.js, React.js, and Node.js)
 - Socket.io
 - Redux Toolkit
